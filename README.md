@@ -1,4 +1,4 @@
-# 12-1-Getting-Started-with-jQuery
+# 11-1-Getting-Started-with-jQuery
 
 ## Video
 
